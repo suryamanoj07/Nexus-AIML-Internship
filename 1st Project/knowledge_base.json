@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "hello there!",
+      "answer": "hey!"
+    },
+    {
+      "question": "who are you ?",
+      "answer": "I am a chatbot. I can help you to learn."
+    },
+    {
+      "question": "what is your name ?",
+      "answer": "My name is ChatBot."
+    },
+    {
+      "question": "how are you ?",
+      "answer": "I am fine. what about you ?"
+    },
+    {
+      "question": "i am good",
+      "answer": "What you want to learn today ?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi"
+    },
+    {
+      "question": "do you know my name ?",
+      "answer": "I dont know the answer to that question."
+    },
+    {
+      "question": "can you tell me about today's whether",
+      "answer": "Sorry I dont have the ability to do that."
+    },
+    {
+      "question": "what is the captial of India ?",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "where is chennai ?",
+      "answer": "Chennai is in Tamil Nadu, India"
+    }
+  ]
+}
